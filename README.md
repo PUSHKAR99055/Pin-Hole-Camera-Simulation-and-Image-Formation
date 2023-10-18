@@ -1,4 +1,5 @@
 # Pin-Hole-Camera-Simulation-and-Image-Formation
 
 
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+<video src='https://youtube.com/shorts/tBjwj5gLeMI?feature=share' width=180/>
+
